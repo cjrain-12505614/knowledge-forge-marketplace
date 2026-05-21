@@ -1,0 +1,15 @@
+{
+  "name": "knowledge-forge",
+  "version": "0.2.1",
+  "description": "AI 업계 인텔리전스 수집·분석·브리핑·콘텐츠 자동화 프레임워크. 매일 8개 카테고리(모델 발표, 제품 업데이트, 뉴스, 논문, 오픈소스, 정책·규제, 투자·펀딩, 실무 툴)를 수집하고, 정보 연결·종합 브리핑·SNS 콘텐츠 제작·자동 게시까지 파이프라인으로 실행합니다.",
+  "author": {
+    "name": "차민수"
+  },
+  "keywords": [
+    "ai-intelligence", "knowledge-archive", "daily-briefing",
+    "news-collection", "research-papers", "sns-content",
+    "trend-analysis", "open-source", "policy-regulation",
+    "investment-funding", "tool-review", "sns-publish",
+    "instagram", "twitter", "facebook", "card-news"
+  ]
+}
